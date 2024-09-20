@@ -63,6 +63,6 @@ class SimpleCalculator{
                 System.out.println("Exiting...");
                 System.exit(0);
         }
-    }
-  }
+      }
+   }
 }
